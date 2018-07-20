@@ -1,0 +1,7 @@
+.keys {
+  display: flex;
+}
+
+.key {
+  flex: 1;
+}
